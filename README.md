@@ -1,6 +1,7 @@
 # HOOKSHOT
 
-_Now you can walk in the sky_
+
+_*Now you can walk in the sky*_
 <p align="center">
     <img src="https://github.com/lynd2299/hookshot/blob/main/img/hookshot.gif" width="60%" />
 </p>
