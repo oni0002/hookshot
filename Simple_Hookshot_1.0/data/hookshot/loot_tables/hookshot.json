@@ -1,0 +1,48 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:crossbow",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Hookshot",
+                                "color": "gold",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "\"Now you can walk in the sky.\"",
+                                    "color": "white",
+                                    "italic": true
+                                },
+                                {
+                                    "text": "Shoot: RClick",
+                                    "color": "gray",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Break moving: Shift while moving",
+                                    "color": "gray",
+                                    "italic": false
+                                }
+                            ],
+                            "replace": true
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:1,Unbreakable:1b,ItemName:hookshot,Charged:1b,HideFlags:5}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "values": [
+    "hookshot:main",
+    "global:assign_player_id"
+  ]
+}

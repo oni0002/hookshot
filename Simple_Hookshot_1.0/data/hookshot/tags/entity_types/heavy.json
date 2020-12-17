@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:elder_guardian",
+        "minecraft:ender_dragon",
+        "minecraft:ghast",
+        "minecraft:giant",
+        "minecraft:hoglin",
+        "minecraft:iron_golem",
+        "minecraft:panda",
+        "minecraft:polar_bear",
+        "minecraft:shulker",
+        "minecraft:wither",
+        "minecraft:zoglin"
+    ]
+}

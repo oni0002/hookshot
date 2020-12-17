@@ -1,0 +1,1 @@
+give @s minecraft:crossbow{display:{Name:'{"text":"Hookshot","color":"gold"}',Lore:['{"text":"hookshot"}']},HideFlags:5,Unbreakable:1b,ItemName:hookshot,Charged:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b}]} 1

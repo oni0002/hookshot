@@ -1,0 +1,1 @@
+execute at @s run tp @s @e[type=#hookshot:heavy,sort=nearest,limit=1]
