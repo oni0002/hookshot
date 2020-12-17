@@ -1,17 +1,28 @@
-# hookshot
+# HOOKSHOT
 
-This datapack adds your world a hookshot. Now you can walk in the sky.
+_Now you can walk in the sky_
+<p align="center">
+    <img src="https://github.com/lynd2299/hookshot/blob/main/img/hookshot.gif" width="60%" />
+</p>
+This datapack adds the hookshot.
 
-<img alt="gif" src="https://github.com/lynd2299/hookshot/blob/main/img/hookshot.gif" width="60%" />
+## Requirement
+- minecraft: 1.16~
 
-## recipe
-<img alt="png" src="https://github.com/lynd2299/hookshot/blob/main/img/hookshot_recipe.png" />
+## Installation
+Put Simple_Hookshot_1.0 to your world's datapack folder. You can use included resource-pack if you want to use special texture.
+
+## Recipe
+<img src="https://github.com/lynd2299/hookshot/blob/main/img/hookshot_recipe.png" />
 
 Pick up a book and it becomes a hookshot.
 
-## usage
-- right-click to shoot a hook
-- shift during flight to interrupt
+## Usage
+- `right-click` to shoot a hook
+- `shift` during flight to interrupt
+
+## Uninstall
+`/function hookshot:uninstall` in commandline
 
 ## note
-Maybe i wont update anymore. If you have any issue, im sorry, but fix it yourself.
+This is my first datapack. Maybe I wont update anymore.
